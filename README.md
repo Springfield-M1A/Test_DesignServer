@@ -5,7 +5,7 @@
 - [How to use](#how-to-use)
 - [Version History](#version-history)
 - [Contacts](#contacts)
-- {License](#license)
+- [License](#license)
 ---
 ### Project Summary
 #### Purpose
