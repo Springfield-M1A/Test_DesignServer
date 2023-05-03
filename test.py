@@ -4,7 +4,7 @@ def test_logger():
     :return: test result.
     :rtype: bool
     """
-    from da_design_server2.src import mylogger
+    from Test_DesignServer.src import mylogger
     try:
         m = mylogger.get_logger('test', '/home/u1035/Test_DesignServer/log')
         m.debug('hi, debug')
