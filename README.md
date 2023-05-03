@@ -1,7 +1,7 @@
 - [Project Summary](#Test_DesignServer)
-- [Purpose](#purpose)
-- [Requirements](#requirements)
-- [How to install](#how-to-install)
+  - [Purpose](#purpose)
+  - [Requirements](#requirements)
+  - [How to install](#how-to-install)
 - [How to use](#how-to-use)
 - [Version History](#version-history)
 - [Contacts](#contacts)
@@ -13,6 +13,7 @@
 #### Requirements
 requirements.txt
 #### How to install
+- Clone&Install
 ```sh
 git clone
 cd Test_DesignServer
