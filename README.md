@@ -19,6 +19,15 @@ git clone
 cd Test_DesignServer
 pip3 install -r requirements.txt
 ```
+- Python path -> ~/.bashrc
+```
+cat >> ~/.bashrc
+Export PYTHONPATH=$PYTHONPATH:/home/username/
+ctrl+D
+
+~$ source ~/.bashrc
+```
+- MongoDB >= 5.0.7
 ---
 ### How to use
 TODO
